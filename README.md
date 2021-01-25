@@ -1,4 +1,4 @@
-![Hallo](/Desktop/ferns.jpg)
+![Hallo](~/Desktop/ferns.jpg)
 
 ## Hi! My name is Elissa
 
