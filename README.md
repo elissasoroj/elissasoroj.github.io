@@ -38,12 +38,12 @@ figcaption{
     }
 
 a{
-    font-color = #C8E19C;
+    font-color = #C8E19C !important;
 }
 
-a .hover{
+a.hover{
     transition: all 0.375s cubic-bezier(0.4, 0, 0.2, 1);
-    font-color = #A991E8;
+    font-color = #A991E8 !imporant;
 }
 
   </style>
@@ -86,12 +86,12 @@ I worked at the Yale Peabody Museum of Natural History, where my affinity for de
 
 At YPM I managed digitization activities for the Western Interior Seaway NSF TCN Grant. The goal of the grant was to digitize and photograph all the fossil specimens from the Western Interior Seaway in YPM's collection.
 
-
+<br>
 <center>
 <p float="left">
   <img src="photos/amm1.JPG" height="300"/>
   <img src="photos/amm2.JPG" height="300"/>
-   <figcaption>Did you know 300 million year old fossiils could look so good?</figcaption>
+   <figcaption>Did you know 100 million-year-old fossils could look so good?</figcaption>
 <br></p>
 </center>
 
