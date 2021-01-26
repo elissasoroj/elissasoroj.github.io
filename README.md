@@ -29,6 +29,7 @@ I worked at the Yale Peabody Museum of Natural History, where my affinity for de
 
 At YPM I managed digitization activities for the Western Interior Seaway NSF TCN Grant. The goal of the grant was to digitize and photograph all the fossil specimens from the Western Interior Seaway in YPM's collection.
 
+
 <center>
 <p float="left">
   <figcaption>Did you know 300 million year old fossiils could look so good?</figcaption>
@@ -44,8 +45,8 @@ Prior to working at YPM I earned my undergraduate degree from Brown University w
 <center>
 <p float="left">
   <figcaption>Don't let coronavirus fool you, bats are both amazing and adorable</figcaption>
-  <img src = "https://j.gifs.com/K1PZW8.gif" height="300">
-<img src="photos/ebat.jpeg" height="300"/>
+  <img src = "https://j.gifs.com/K1PZW8.gif" height="400">
+<img src="photos/ebat.jpeg" height="400"/>
 </p>
 </center>
 <br>
