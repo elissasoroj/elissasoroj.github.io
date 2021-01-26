@@ -36,6 +36,15 @@ figcaption{
 
     }
 
+a{
+    font-color = #C8E19C;
+}
+
+a .hover{
+    transition: all 0.375s cubic-bezier(0.4, 0, 0.2, 1);
+    font-color = #A991E8;
+}
+
   </style>
 </head>
 
@@ -114,3 +123,6 @@ I'm  also a scientific illustrator and I love to nerd out about science  communi
   <img src="photos/illustration/cham.png"/>
 </section>
 </center>
+
+<br><br>
+Link to [Iris Data](data/iris-data-dirty.csv)
