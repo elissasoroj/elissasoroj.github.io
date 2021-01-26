@@ -33,6 +33,7 @@ figcaption{
     font-family: "Courier New", Courier, monospace;
     font-weight: 100;
     font-color: #6C3483;
+    padding-top: -0.5em;
 
     }
 
@@ -47,6 +48,10 @@ a .hover{
 
   </style>
 </head>
+<body>
+<script>NekoType="socks"</script>
+<p id=nl><script src="https://webneko.net/n20171213.js"></script><a 
+href="https://webneko.net"></a></p>
 
 <p style="text-align: center;">
 <img src="photos/elissa1.jpg" title="Trying to color-coordinate with the plants since 2015" width="500"/><br></p>
