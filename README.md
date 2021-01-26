@@ -1,11 +1,3 @@
-<head><link type="text/css" rel="stylesheet" href="stylesheets/main.css" />
-<style>
-    .figure {
-      display: inline-block;
-  }
-    </style>
-</head>
-
 <p style="text-align: center;">
 <img src="photos/elissa1.jpg" title="Trying to color-coordinate with the plants since 2015" width="500"/><br></p>
 
