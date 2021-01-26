@@ -84,9 +84,8 @@ I worked at the Yale Peabody Museum of Natural History, where my affinity for de
 <img src="photos/elissa2.jpg" title="Picking up dead things since my Mom couldn't tell me not to" width="400"/><br><br>
 </center>
 
-At YPM I managed digitization activities for the Western Interior Seaway NSF TCN Grant. The goal of the grant was to digitize and photograph all the fossil specimens from the Western Interior Seaway in YPM's collection.
+At YPM I managed digitization activities for the Western Interior Seaway NSF TCN Grant. The goal of the grant was to digitize and photograph all the fossil specimens from the Western Interior Seaway in YPM's collection, like these lovely ammonoids:
 
-<br>
 <center>
 <p float="left">
   <img src="photos/amm1.JPG" height="300" title = "I am quite old"/>
@@ -102,7 +101,7 @@ Prior to working at YPM I earned my undergraduate degree from Brown University w
 <center>
 <p float="left">
   <img src = "https://j.gifs.com/K1PZW8.gif" height="400" title="glorious bat flight in slow motion">
-<img src="photos/ebat.jpeg" height="400" title="What can I say, I like to hold things and looking at them"/>
+<img src="photos/ebat.jpeg" height="400" title="What can I say, I like to hold things and look at them"/>
 <figcaption>Don't let coronavirus fool you, bats are both amazing and adorable</figcaption>
 </p>
 </center>
