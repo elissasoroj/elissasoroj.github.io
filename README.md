@@ -1,3 +1,44 @@
+<head>
+<style>
+#photos {
+  /* Prevent vertical gaps */
+  line-height: 0;
+   
+  -webkit-column-count: 3;
+  -webkit-column-gap:   0px;
+  -moz-column-count:    3;
+  -moz-column-gap:      0px;
+  column-count:         3;
+  column-gap:           0px;  
+}
+
+#photos img {
+  /* Just in case there are inline attributes */
+  width: 100% !important;
+  height: auto !important;
+}
+
+h2 {
+    font-family: "Trebuchet MS", Tahoma, sans-serif;
+    font-size: 1.5em;
+    font-weight: 100;
+
+}
+
+p{
+    font-family: "Trebuchet MS", Tahoma, sans-serif;
+    }
+
+figcaption{
+    font-family: "Courier New", Courier, monospace;
+    font-weight: 100;
+    font-color: #6C3483;
+
+    }
+
+  </style>
+</head>
+
 <p style="text-align: center;">
 <img src="photos/elissa1.jpg" title="Trying to color-coordinate with the plants since 2015" width="500"/><br></p>
 
@@ -32,9 +73,9 @@ At YPM I managed digitization activities for the Western Interior Seaway NSF TCN
 
 <center>
 <p float="left">
-  <figcaption>Did you know 300 million year old fossiils could look so good?</figcaption>
   <img src="photos/amm1.JPG" height="300"/>
   <img src="photos/amm2.JPG" height="300"/>
+   <figcaption>Did you know 300 million year old fossiils could look so good?</figcaption>
 <br></p>
 </center>
 
@@ -44,9 +85,9 @@ Prior to working at YPM I earned my undergraduate degree from Brown University w
 
 <center>
 <p float="left">
-  <figcaption>Don't let coronavirus fool you, bats are both amazing and adorable</figcaption>
   <img src = "https://j.gifs.com/K1PZW8.gif" height="400">
-<img src="photos/ebat.jpeg" height="400"/>
+<img src="photos/ebat.jpeg" height="400" title="What can I say, I like to hold things and look at them"/>
+<figcaption>Don't let coronavirus fool you, bats are both amazing and adorable</figcaption>
 </p>
 </center>
 <br>
@@ -59,24 +100,17 @@ Prior to working at YPM I earned my undergraduate degree from Brown University w
 
 I'm  also a scientific illustrator and I love to nerd out about science  communication
 
+<br>
 <center>
-<p float="top">
-  <figcaption>One of my favorite techniques is stippling</figcaption>
-  <img src="photos/illustration/horseshoe.jpg" height="270"/>
-  <img src="photos/illustration/cham.png" height="270"/>
-  <img src="photos/illustration/pitcher.png" height="270"/>
-  
-<br>
-<figcaption>But my favorite medium has to be watercolor</figcaption>
-  <img src="photos/illustration/flicker.jpg" height="270"/>
-  <img src="photos/illustration/horseshoecrab_ink.png" height="270"/>
-  <img src="photos/illustration/autumn.jpg" height="270"/>
-
-<br>
-  <figcaption>Unfortunately, I mostly get paid for digital work</figcaption>
-  <img src="photos/illustration/spinalcord.jpg" height="270"/>
-  <img src="photos/illustration/darker.jpeg" height="270"/>
-  <img src="photos/illustration/mosquito.png" height="270"/>
-</p>
+ <section id="photos">
+  <img src="photos/illustration/spinalcord.jpg" alt="Spinal cord">
+  <img src="photos/illustration/flicker.jpg" />
+  <img src="photos/illustration/pitcher.png"/>
+  <img src="photos/illustration/darker.jpeg" alt="cthulu">
+  <img src="photos/illustration/horseshoe.jpg" />
+  <img src="photos/illustration/autumn.jpg"/>
+  <img src="photos/illustration/mosquito.png"/>
+  <img src="photos/illustration/horseshoecrab_ink.png"/>
+  <img src="photos/illustration/cham.png"/>
+</section>
 </center>
-
