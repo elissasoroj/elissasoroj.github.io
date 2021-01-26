@@ -51,7 +51,7 @@ Prior to working at YPM I earned my undergraduate degree from Brown University w
 <center>
 <p float="left">
   <figcaption>Don't let coronavirus fool you, bats are both amazing and adorable</figcaption>
-<iframe src='//gifs.com/embed/artibeus-K1PZW8' frameborder='0' scrolling='no' height='350' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+  <img src = "https://gifs.com/gif/artibeus-K1PZW8" height="240">
 <img src="photos/ebat.jpeg" height="240"/>
 </p>
 </center>
