@@ -38,12 +38,12 @@ figcaption{
     }
 
 a{
-    color = #C8E19C !important;
+    color: #C8E19C !important;
 }
 
 a.hover{
     transition: all 0.375s cubic-bezier(0.4, 0, 0.2, 1);
-    color = #A991E8 !imporant;
+    color: #A991E8 !imporant;
 }
 
   </style>
