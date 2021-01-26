@@ -66,9 +66,9 @@ I am a joint PhD student at E3B Columbia and the graduate studies program at NYB
 I'm interested in studying the evolution of morphological diversity in various strange and wonderful plant groups, including *Pedicularis*, ferns, and lycophytes:
 
 <figure style="display:flex">
-  <img src="photos/pedicularis_diversity.png" height="350" title="Pedicularis"/>
-  <img src="photos/ferns.jpg" title="ferns" height="350" title="Ferns"/>
-  <img src="photos/lyco_diversity.png" height="350" title="Lycophytes"/>
+  <img src="photos/pedicularis_diversity.png" height="350" title="Parasitic, but pretty"/>
+  <img src="photos/ferns.jpg" title="ferns" height="350" title="You don't even know how cool ferns are"/>
+  <img src="photos/lyco_diversity.png" height="350" title="Lycophyte fruits in all their glory"/>
   </figure>
 
 
@@ -89,8 +89,8 @@ At YPM I managed digitization activities for the Western Interior Seaway NSF TCN
 <br>
 <center>
 <p float="left">
-  <img src="photos/amm1.JPG" height="300"/>
-  <img src="photos/amm2.JPG" height="300"/>
+  <img src="photos/amm1.JPG" height="300" title = "I am quite old"/>
+  <img src="photos/amm2.JPG" height="300" title = "I am also very old"/>
    <figcaption>Did you know 100 million-year-old fossils could look so good?</figcaption>
 <br></p>
 </center>
@@ -101,8 +101,8 @@ Prior to working at YPM I earned my undergraduate degree from Brown University w
 
 <center>
 <p float="left">
-  <img src = "https://j.gifs.com/K1PZW8.gif" height="400">
-<img src="photos/ebat.jpeg" height="400" title="What can I say, I like to hold things and look at them"/>
+  <img src = "https://j.gifs.com/K1PZW8.gif" height="400" title="glorious bat flight in slow motion">
+<img src="photos/ebat.jpeg" height="400" title="What can I say, I like to hold things and looking at them"/>
 <figcaption>Don't let coronavirus fool you, bats are both amazing and adorable</figcaption>
 </p>
 </center>
@@ -120,14 +120,18 @@ I'm  also a scientific illustrator and I love to nerd out about science  communi
 <center>
  <section id="photos">
   <img src="photos/illustration/spinalcord.jpg" alt="Spinal cord">
+  <img src="photos/illustration/cham.png"/>
   <img src="photos/illustration/flicker.jpg" />
-  <img src="photos/illustration/pitcher.png"/>
-  <img src="photos/illustration/darker.jpeg" alt="cthulu">
+  <img src="photos/illustration/batheads.png"/>
+  <img src="photos/illustration/darker.jpeg">
   <img src="photos/illustration/horseshoe.jpg" />
   <img src="photos/illustration/autumn.jpg"/>
+  <img src="photos/illustration/biochem.jpg"/>
+<img src="photos/illustration/horseshoecrab_ink.png"/>
   <img src="photos/illustration/mosquito.png"/>
-  <img src="photos/illustration/horseshoecrab_ink.png"/>
-  <img src="photos/illustration/cham.png"/>
+
+
+
 </section>
 </center>
 
