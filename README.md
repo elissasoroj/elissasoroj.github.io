@@ -48,7 +48,7 @@ a .hover{
 
   </style>
 </head>
-<body>
+
 <script>NekoType="socks"</script>
 <p id=nl><script src="https://webneko.net/n20171213.js"></script><a 
 href="https://webneko.net"></a></p>
@@ -57,6 +57,8 @@ href="https://webneko.net"></a></p>
 <img src="photos/elissa1.jpg" title="Trying to color-coordinate with the plants since 2015" width="500"/><br></p>
 
 <center><h2> Hi! My name is Elissa</h2></center>
+
+Link to [Iris Data](data/iris-data-dirty.csv)
 
 ---
 
@@ -130,4 +132,3 @@ I'm  also a scientific illustrator and I love to nerd out about science  communi
 </center>
 
 <br><br>
-Link to [Iris Data](data/iris-data-dirty.csv)
