@@ -52,8 +52,8 @@ Prior to working at YPM I earned my undergraduate degree from Brown University w
   <video width="200">
   <source src="photos/artibeus.mp4" type="video/mp4">
   <source src="photos/bat.mp4" type="video/mp4">
-  <img src="photos/ebat.jpeg" width="200"/>
 </video>
+<img src="photos/ebat.jpeg" width="200"/>
 </center>
 <br>
 
