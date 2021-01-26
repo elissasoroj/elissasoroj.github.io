@@ -1,4 +1,10 @@
-<link href="markdown_styles.css" rel="stylesheet">
+<head><link type="text/css" rel="stylesheet" href="stylesheets/main.css" />
+<style>
+    .figure {
+      display: inline-block;
+  }
+    </style>
+</head>
 
 <p style="text-align: center;">
 <img src="photos/elissa1.jpg" title="Trying to color-coordinate with the plants since 2015" width="500"/><br></p>
@@ -8,22 +14,17 @@
 ---
 
 I am a joint PhD student at E3B Columbia and the graduate studies program at NYBG. 
-I'm interested in studying the evolution of morphological diversity in various strange and wonderful plant groups, including:
-<center>
-<figure float="left">
-  <figcaption><i>Pedicularis</i></figcaption>
-  <img src="photos/pedicularis_diversity.png" width="300"/></figure>
+I'm interested in studying the evolution of morphological diversity in various strange and wonderful plant groups, including *Pedicularis*, ferns, and lycophytes:
 
-<figure>
-    <figcaption>Ferns</figcaption>
-  <img src="photos/ferns.jpg" title="ferns" width="300" /></figure>
+<figure style="display:flex">
+  <img src="photos/pedicularis_diversity.png" height="350" title="Pedicularis"/>
+  <img src="photos/ferns.jpg" title="ferns" height="350" title="Ferns"/>
+  <img src="photos/lyco_diversity.png" height="350" title="Lycophytes"/>
+  </figure>
 
-<figure float="left">
-  <figcaption>and Lycophytes</figcaption>
-  <img src="photos/lyco_diversity.png" width="300" /> 
-</figure>
-</center>
+
 <br><br>
+
 ---
 
 ## B.C. (Before Columbia)
@@ -51,8 +52,8 @@ Prior to working at YPM I earned my undergraduate degree from Brown University w
 <center>
 <p float="left">
   <figcaption>Don't let coronavirus fool you, bats are both amazing and adorable</figcaption>
-  <img src = "https://j.gifs.com/K1PZW8.gif" height="240">
-<img src="photos/ebat.jpeg" height="240"/>
+  <img src = "https://j.gifs.com/K1PZW8.gif" height="300">
+<img src="photos/ebat.jpeg" height="300"/>
 </p>
 </center>
 <br>
@@ -68,21 +69,21 @@ I'm  also a scientific illustrator and I love to nerd out about science  communi
 <center>
 <p float="top">
   <figcaption>One of my favorite techniques is stippling</figcaption>
-  <img src="photos/illustration/horseshoe.jpg" height="300"/>
-  <img src="photos/illustration/octo.png" height="300"/>
-  <img src="photos/illustration/pitcher.png" height="300"/>
+  <img src="photos/illustration/horseshoe.jpg" height="270"/>
+  <img src="photos/illustration/cham.png" height="270"/>
+  <img src="photos/illustration/pitcher.png" height="270"/>
   
 <br>
 <figcaption>But my favorite medium has to be watercolor</figcaption>
-  <img src="photos/illustration/flicker.jpg" height="300"/>
-  <img src="photos/illustration/horseshoecrab_ink.png" height="300"/>
-  <img src="photos/illustration/autumn.jpg" height="300"/>
+  <img src="photos/illustration/flicker.jpg" height="270"/>
+  <img src="photos/illustration/horseshoecrab_ink.png" height="270"/>
+  <img src="photos/illustration/autumn.jpg" height="270"/>
 
 <br>
   <figcaption>Unfortunately, I mostly get paid for digital work</figcaption>
-  <img src="photos/illustration/spinalcord.jpg" height="300"/>
-  <img src="photos/illustration/darker.jpeg" height="300"/>
-  <img src="photos/illustration/mosquito.png" height="300"/>
+  <img src="photos/illustration/spinalcord.jpg" height="270"/>
+  <img src="photos/illustration/darker.jpeg" height="270"/>
+  <img src="photos/illustration/mosquito.png" height="270"/>
 </p>
 </center>
 
