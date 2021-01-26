@@ -31,15 +31,16 @@ I'm interested in studying the evolution of morphological diversity in various s
 I worked at the Yale Peabody Museum of Natural History, where my affinity for dead things served me well...
 
 <center>
-<img src="photos/elissa2.jpg" title="Picking up dead things since my Mom couldn't tell me not to" width="400"/><br></center>
+<img src="photos/elissa2.jpg" title="Picking up dead things since my Mom couldn't tell me not to" width="400"/><br><br>
+</center>
 
 At YPM I managed digitization activities for the Western Interior Seaway NSF TCN Grant. The goal of the grant was to digitize and photograph all the fossil specimens from the Western Interior Seaway in YPM's collection.
 
 <center>
 <p float="left">
   <figcaption>Did you know 300 million year old fossiils could look so good?</figcaption>
-  <img src="photos/amm1.JPG" width="300"/>
-  <img src="photos/amm2.JPG" width="300"/>
+  <img src="photos/amm1.JPG" height="300"/>
+  <img src="photos/amm2.JPG" height="300"/>
 <br></p>
 </center>
 
@@ -69,21 +70,21 @@ I'm  also a scientific illustrator and I love to nerd out about science  communi
 <center>
 <p float="top">
   <figcaption>One of my favorite techniques is stippling</figcaption>
-  <img src="photos/illustration/horseshoe.jpg" width="130"/>
-  <img src="photos/illustration/octo.png" width="250"/>
-  <img src="photos/illustration/pitcher.png" width="105"/>
+  <img src="photos/illustration/horseshoe.jpg" height="300"/>
+  <img src="photos/illustration/octo.png" height="300"/>
+  <img src="photos/illustration/pitcher.png" height="300"/>
   
 <br>
 <figcaption>But my favorite medium has to be watercolor</figcaption>
-  <img src="photos/illustration/flicker.jpg" width="200"/>
-  <img src="photos/illustration/horseshoecrab_ink.png" width="200"/>
-  <img src="photos/illustration/autumn.jpg" width="215"/>
+  <img src="photos/illustration/flicker.jpg" height="300"/>
+  <img src="photos/illustration/horseshoecrab_ink.png" height="300"/>
+  <img src="photos/illustration/autumn.jpg" height="300"/>
 
 <br>
   <figcaption>Unfortunately, I mostly get paid for digital work</figcaption>
-  <img src="photos/illustration/spinalcord.jpg" width="200"/>
-  <img src="photos/illustration/darker.jpeg" width="205"/>
-  <img src="photos/illustration/mosquito.png" width="115"/>
+  <img src="photos/illustration/spinalcord.jpg" height="300"/>
+  <img src="photos/illustration/darker.jpeg" height="300"/>
+  <img src="photos/illustration/mosquito.png" height="300"/>
 </p>
 </center>
 
