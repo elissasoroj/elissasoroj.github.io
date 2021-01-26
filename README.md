@@ -40,8 +40,9 @@ At YPM I managed digitization activities for the Western Interior Seaway NSF TCN
   <figcaption>Did you know 300 million year old fossiils could look so good?</figcaption>
   <img src="photos/amm1.JPG" width="300"/>
   <img src="photos/amm2.JPG" width="300"/>
+<br></p>
 </center>
-<br>
+
  ~
 
 Prior to working at YPM I earned my undergraduate degree from Brown University where I studied bat wing morphology in the [Aeromechanics and Evolutionary Morphology Lab](https://www.brown.edu/Departments/EEB/EML/). For my indepedent research I used histology to characterize the morphology of the trailing edge, but I also had the great pleasure of training bats to fly through tiny windows.
@@ -54,6 +55,7 @@ Prior to working at YPM I earned my undergraduate degree from Brown University w
   <source src="photos/bat.mp4" type="video/mp4">
 </video>
 <img src="photos/ebat.jpeg" width="200"/>
+</p>
 </center>
 <br>
 
