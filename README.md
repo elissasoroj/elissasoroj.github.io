@@ -32,18 +32,18 @@ p{
 figcaption{
     font-family: "Courier New", Courier, monospace;
     font-weight: 100;
-    font-color: #6C3483;
-    padding-top: -0.5em;
+    color: #6C3483;
+    line-height: 0;
 
     }
 
 a{
-    font-color = #C8E19C !important;
+    color = #C8E19C !important;
 }
 
 a.hover{
     transition: all 0.375s cubic-bezier(0.4, 0, 0.2, 1);
-    font-color = #A991E8 !imporant;
+    color = #A991E8 !imporant;
 }
 
   </style>
