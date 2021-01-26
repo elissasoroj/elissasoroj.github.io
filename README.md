@@ -22,6 +22,7 @@ h2 {
     font-family: "Trebuchet MS", Tahoma, sans-serif;
     font-size: 1.5em;
     font-weight: 100;
+    color: #C2D998;
 
 }
 
@@ -38,10 +39,10 @@ figcaption{
     }
 
 a{
-    color: #C8E19C !important;
+    color: #AD3D68 !important;
 }
 
-a.hover{
+a:-webkit-any-link {
     transition: all 0.375s cubic-bezier(0.4, 0, 0.2, 1);
     color: #A991E8 !imporant;
 }
