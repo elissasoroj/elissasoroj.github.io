@@ -1,4 +1,4 @@
-<link href="markdown_styles.css" rel="stylesheet"></link>
+<link href="markdown_styles.css" rel="stylesheet">
 
 <p style="text-align: center;">
 <img src="photos/elissa1.jpg" title="Trying to color-coordinate with the plants since 2015" width="500"/><br></p>
@@ -51,9 +51,7 @@ Prior to working at YPM I earned my undergraduate degree from Brown University w
 <center>
 <p float="left">
   <figcaption>Don't let coronavirus fool you, bats are both amazing and adorable</figcaption>
-<video height="240" controls>
-  <source type="video/mp4" src="artibeus.mp4">
-</video>
+<iframe src='//gifs.com/embed/artibeus-K1PZW8' frameborder='0' scrolling='no' height='350' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 <img src="photos/ebat.jpeg" height="240"/>
 </p>
 </center>
